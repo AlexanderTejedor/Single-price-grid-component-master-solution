@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base:'https://AlexanderTejedor.github.io/Single-price-grid-component-master-solution'
 })
