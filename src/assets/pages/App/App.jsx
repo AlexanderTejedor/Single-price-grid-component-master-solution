@@ -3,7 +3,7 @@ import { Home } from '../Home/Home'
 function App() {
 
   return (
-    <section className="m-4 mt-20 flex flex-col items-center justify-center">
+    <section className="p-6 h-screen flex flex-col items-center justify-center bg-light-gray-93">
       <Home/>
     </section>
   )
