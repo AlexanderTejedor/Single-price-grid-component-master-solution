@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AlexanderTejedor/Single-price-grid-component-master-solution)
-- Live Site URL: [Add live site URL here](https://alexandertejedor.github.io/Single-price-grid-component-master-solution/)
+- Solution URL: [GitHub](https://github.com/AlexanderTejedor/Single-price-grid-component-master-solution)
+- Live Site URL: [GitHub Pages](https://alexandertejedor.github.io/Single-price-grid-component-master-solution/)
 
 ## My process
 
